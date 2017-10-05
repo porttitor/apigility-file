@@ -23,3 +23,9 @@ data/DoctrineORMModule/cache/
 # Legacy ZF1
 demos/
 extras/documentation
+
+# Eclipse and Zend Studio
+/.buildpath
+/.project
+/.settings/
+/composer.lock
