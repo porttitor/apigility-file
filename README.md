@@ -1,6 +1,6 @@
 # porttitor/apigility-file
 
-Biblioteca API para manipulação e carregamento de arquivos com apigility
+Biblioteca API para manipulação de arquivos com apigility
 
 # De olho na evolução do ZF2/ZF3
 
