@@ -1,10 +1,25 @@
 {
-	"name" : "porttitor/apigility-file",
-	"description":"Biblioteca API para manipulação e carregamento de arquivos com apigility",
-	"license"  : "MIT",
-  	"keywords" : [ "framework", "zf2", "zf3", "api", "apigility", "file" ],
-  	"require": {
-        "php": "^5.6 || ^7.0",
-        "zendframework/zend-component-installer": "^1.0 || ^0.5 || ^1.0.0-dev@dev"
-    }
+	"name": "porttitor/apigility-file",
+	"description": "Biblioteca API para manipulação de arquivos com apigility",
+	"license": "MIT",
+	"keywords": [
+		"framework",
+		"zf2",
+		"zf3",
+		"api",
+		"apigility",
+		"file"
+	],
+	"authors": [
+		{
+			"name": "Sérgio Ernane Munhós Hermes",
+			"email": "hermes.sergio@gmail.com",
+			"homepage": "https://sergiohermes.github.io",
+			"role": "IT Architect"
+		}
+	],
+	"require": {
+		"php": "^5.6 || ^7.0",
+		"zendframework/zend-component-installer": "^1.0 || ^0.5 || ^1.0.0-dev@dev"
+	}
 }
